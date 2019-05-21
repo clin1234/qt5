@@ -13,7 +13,7 @@ Jinja2==2.10.1
 MarkupSafe==1.0
 path.py==11.0.1
 pathtools==0.1.2
-PyYAML==3.13
+PyYAML==4.2b1
 six==1.11.0
 typing==3.6.4
 watchdog==0.8.3
